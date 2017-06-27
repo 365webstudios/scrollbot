@@ -2,10 +2,7 @@
   "name": "scrollbot",
   "version": "0.0.3",
   "description": "Javascript custom scroll bar library.",
-  "main": "scrollbot.min.js",
-  "scripts": {
-    "test": "mocha --reporter spec"
-  },
+  "main": "scrollbot.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/365webstudios/scrollbot.git"
@@ -19,12 +16,4 @@
     "url": "https://github.com/365webstudios/scrollbot/issues"
   },
   "homepage": "https://github.com/365webstudios/scrollbot#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "chai": "^4.0.2",
-    "mocha": "^3.4.2"
-  },
-  "engines": {
-    "node": ">=4.2.4"
-  }
 }
