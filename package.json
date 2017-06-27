@@ -1,0 +1,30 @@
+{
+  "name": "scrollbot",
+  "version": "0.0.1",
+  "description": "Javascript custom scroll bar library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/365webstudios/scrollbot.git"
+  },
+  "keywords": [
+    "scrollbot"
+  ],
+  "author": "Shane Henry <shane26henry@gmail.com> (https://github.com/365webstudios)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/365webstudios/scrollbot/issues"
+  },
+  "homepage": "https://github.com/365webstudios/scrollbot#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  }
+}
