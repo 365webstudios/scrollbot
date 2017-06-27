@@ -1,8 +1,8 @@
 {
   "name": "scrollbot",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Javascript custom scroll bar library.",
-  "main": "index.js",
+  "main": "scrollbot.min.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
