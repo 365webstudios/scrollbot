@@ -1,5 +1,5 @@
 {
-  "name": "scrollbot",
+  "name": "scrollbotjs",
   "version": "0.0.3",
   "description": "Javascript custom scroll bar library.",
   "main": "scrollbot.js",
